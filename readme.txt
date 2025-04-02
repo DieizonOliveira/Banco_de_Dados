@@ -18,7 +18,7 @@ Dependências
 
 Antes de executar o projeto, instale as dependências necessárias utilizando o seguinte comando:
 
-pip install requests pymysql beautifulsoup4 prettytable
+pip install -r requirements.txt
 
 Como Executar
 
